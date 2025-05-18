@@ -1,1 +1,1 @@
-# compe2midterm-3B-2
+# github_practical
