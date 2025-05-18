@@ -1,1 +1,1 @@
-# cprog3midterm-3B-2
+# compe2midterm-3B-2
